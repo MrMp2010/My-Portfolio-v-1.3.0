@@ -1,10 +1,5 @@
 # My-Portfolio-v-1.3.0:
-## Repository Description
-
-A dynamic React.js portfolio showcasing diverse web development skills through multiple interactive mini-applications, including a comprehensive e-commerce simulation, an advanced state management example, and a fully authenticated user management system with mock API integration.
-
 ---
-
 # Multi-Feature React Portfolio
 
 This repository hosts a dynamic React.js portfolio project, version 1.3.0, designed to showcase a range of modern web development skills. It features a central navigation hub that leads to three distinct mini-applications: an e-commerce simulation, a product counter and management tool, and a robust user management system with authentication and mock API integration.
